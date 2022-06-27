@@ -6,7 +6,7 @@
 **Date:** Fall 2021  
 **Purpose:** Capstone project for Mechanical Engineering Senior Design I (ME 574)
 
-The objective of the ME 574 project was to design and create an automated pet feeder for a cat or a small dog.
+The objective of the ME 574 project was to design and manufacture an automated pet feeder for a cat or a small dog.
 
 ## Code
 
