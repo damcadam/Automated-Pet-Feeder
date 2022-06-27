@@ -2,7 +2,7 @@
 
 ## Desription
 **Authors:** Darius McAdam, Kyle Bell, and Evan Kaloupek  
-**Project Members:** Darius McAdam, Kyle Bell, Evan Kaloupek, Luke Price, Hunter Sovboda, and Siyi Xiao  
+**Project Team Members:** Darius McAdam, Kyle Bell, Evan Kaloupek, Luke Price, Hunter Sovboda, and Siyi Xiao  
 **Date:** Fall 2021  
 **Purpose:** Capstone project for Mechanical Engineering Senior Design I (ME 574)
 
