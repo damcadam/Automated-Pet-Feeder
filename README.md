@@ -9,6 +9,10 @@
 The objective of the ME 574 project was to design and manufacture an automated pet feeder for a cat or a small dog. The pet feeder needed to be able to dispense food, sechdule feeding times, and give the user feedback on the number of calories the pet has consumed. 
 
 ## Code
+**Language:** C++  
+**Organziation:** The script thinks of the pet feeder as a state machine. Each menu is represented as a different state. The current state determines what code runs in the Arduino's loop.
+
+Most of the code is made up of menus that tell the Arduino what should be printed to the LCD.T
 
 ## Hardware
 - Arduino Mega
@@ -17,5 +21,6 @@ The objective of the ME 574 project was to design and manufacture an automated p
 - Jumper Cables
 - Breadboard
 - Servo
+- Push Buttons
 
 ## Outcome
